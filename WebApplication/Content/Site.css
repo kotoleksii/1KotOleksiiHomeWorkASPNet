@@ -29,3 +29,25 @@ textarea {
         padding: 0;
     }
 }
+
+.content {
+    padding: 5px;
+}
+
+.lstCities {
+    width: 178px;
+}
+
+.lblMessage {
+    color: orangered;
+}
+
+p {
+    text-align: center;
+}
+
+.centered {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
